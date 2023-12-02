@@ -10,9 +10,15 @@ html {
   min-height: 100vh;
   font-size: 62.5%;
 }
+
 body {
   font-size: 1.6rem;
   max-width: 56rem;
   overflow-x: hidden;
   background-color: #f0f1f4;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
