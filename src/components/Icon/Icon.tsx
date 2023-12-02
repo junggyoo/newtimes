@@ -4,15 +4,17 @@ import { IconMap, Icons } from './IconMap';
 
 interface IconProps {
   name: keyof Icons;
-  width?: string;
-  height?: string;
+  size?: number;
+  width?: number;
+  height?: number;
   color?: string;
 }
 
 export default function Icon({
   name,
-  width = '24',
-  height = '24',
+  size,
+  width,
+  height,
   color = '#fff',
 }: IconProps) {
   const IconSVG = IconMap[name];
@@ -20,13 +22,16 @@ export default function Icon({
   return (
     <i
       style={{
-        width,
-        height,
+        width: size || width || 24,
+        height: size || height || 24,
         fill: color,
       }}
     >
       {cloneElement(IconSVG, {
-        style: { stroke: 'currentColor', width, height },
+        style: {
+          width: size || width || 24,
+          height: size || height || 24,
+        },
       })}
     </i>
   );

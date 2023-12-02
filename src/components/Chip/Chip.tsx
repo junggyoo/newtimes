@@ -48,8 +48,10 @@ const Container = styled.span(
     gap: '0.5rem',
     padding: '0.6rem 1.2rem 0.4rem 1.2rem',
     marginRight: '0.5rem',
+    height: '3.4rem',
     borderRadius: '3rem',
     fontSize: '1.4rem',
+    cursor: 'pointer',
   },
   ({ color }: { color: ChipColor }) => ({
     ...getChipStyle(color),
