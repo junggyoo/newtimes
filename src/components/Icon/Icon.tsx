@@ -31,6 +31,7 @@ export default function Icon({
         style: {
           width: size || width || 24,
           height: size || height || 24,
+          fill: color,
         },
       })}
     </i>

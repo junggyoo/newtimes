@@ -1,16 +1,11 @@
 import FilterChips from '@/components/FIlterChips/FIlterChips';
+import NewsList from '@/components/NewsList/NewList';
 
 export default function HomePage() {
   return (
     <>
       <FilterChips />
-      <section
-        style={{
-          height: '100%',
-        }}
-      >
-        <div>기사기사기사</div>
-      </section>
+      <NewsList />
     </>
   );
 }
