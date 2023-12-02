@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+  max-width: 56rem;
+  overflow-x: hidden;
+  background-color: #f0f1f4;
+}
