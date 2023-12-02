@@ -1,11 +1,12 @@
 import styled from '@emotion/styled';
 import { NavLink } from 'react-router-dom';
 
-import { Icon, IconMap } from '../Icon';
+import { Icons } from '../Icon/IconMap';
+import { Icon } from '../Icon';
 
 interface BottomNavItemProps {
   label: string;
-  icon: keyof typeof IconMap;
+  icon: keyof Icons;
   to: string;
 }
 

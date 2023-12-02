@@ -13,9 +13,14 @@ html {
 
 body {
   font-size: 1.6rem;
+  width: 100%;
   max-width: 56rem;
   overflow-x: hidden;
   background-color: #f0f1f4;
+}
+
+#root {
+  height: 100%;
 }
 
 a {

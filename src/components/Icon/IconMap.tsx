@@ -1,5 +1,10 @@
-const IconMap = {
-  home: (
+export interface Icons {
+  HOME: JSX.Element;
+  SCRAP: JSX.Element;
+}
+
+export const IconMap: Icons = {
+  HOME: (
     <svg
       width="24"
       height="24"
@@ -13,7 +18,7 @@ const IconMap = {
       />
     </svg>
   ),
-  scrap: (
+  SCRAP: (
     <svg
       width="24"
       height="24"
@@ -40,5 +45,3 @@ const IconMap = {
     </svg>
   ),
 };
-
-export default IconMap;
