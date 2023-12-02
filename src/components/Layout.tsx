@@ -12,6 +12,7 @@ export default function Layout({ children }: React.PropsWithChildren) {
 }
 
 const Container = styled.div`
+  position: relative;
   display: flex;
   flex-direction: column;
   height: 100%;

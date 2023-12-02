@@ -8,6 +8,7 @@ interface FilterChipsProps {
 }
 
 export default function FilterChips({ type = 'home' }: FilterChipsProps) {
+  console.log(type);
   return (
     <Container>
       <Chip startContent={<Icon name="SEARCH" size={16} />}>전체 헤드라인</Chip>

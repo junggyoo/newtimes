@@ -12,12 +12,17 @@ export default function BottomNavigation() {
 }
 
 const Container = styled.div`
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  max-width: 56rem;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: 8.5rem;
   padding: 2rem 8rem;
-  margin: auto 0;
   border-radius: 3rem;
   background-color: black;
   color: white;

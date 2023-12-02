@@ -1,9 +1,21 @@
 import styled from '@emotion/styled';
+
 import News from './News';
+
+const VIEW_HEIGHT = window.innerHeight;
+const HEADER_HEIGHT = 87;
+const BOTTOM_HEIGHT = 85;
 
 export default function NewsList() {
   return (
-    <Container>
+    <Container height={VIEW_HEIGHT}>
+      <News />
+      <News />
+      <News />
+      <News />
+      <News />
+      <News />
+      <News />
       <News />
       <News />
       <News />
@@ -13,10 +25,12 @@ export default function NewsList() {
   );
 }
 
-const Container = styled.section`
+const Container = styled.section<{ height: number }>`
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
-  height: 100%;
   padding: 2rem;
+
+  height: ${({ height }) => (height - (HEADER_HEIGHT + BOTTOM_HEIGHT)) / 10}rem;
+  overflow-y: scroll;
 `;
