@@ -1,0 +1,1748 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "abstract": "World Business Briefing",
+        "web_url": "https://www.nytimes.com/2001/12/12/business/worldbusiness/world-business-briefing.html",
+        "snippet": "World Business Briefing",
+        "lead_paragraph": " ASIA ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Business Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Business Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "General Motors Corporation",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Landler, Mark",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Computer Chips",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION AND RADIO PROGRAMMING",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Computers and the Internet",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Smallpox",
+            "rank": 7,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-12-12T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/d31a3354-4018-5f78-85c9-559d3aa2247e",
+        "word_count": 1487,
+        "uri": "nyt://article/d31a3354-4018-5f78-85c9-559d3aa2247e"
+      },
+      {
+        "abstract": "Following is the text of a briefing by Defense Secretary Donald Rumsfeld today at the Pentagon, as recorded by The New York Times:.",
+        "web_url": "https://www.nytimes.com/2001/09/20/national/text-rumsfelds-briefing.html",
+        "snippet": "Following is the text of a briefing by Defense Secretary Donald Rumsfeld today at the Pentagon, as recorded by The New York Times:.",
+        "lead_paragraph": " Following is the text of a briefing by Defense Secretary Donald Rumsfeld today at the Pentagon, as recorded by The New York Times : ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Text: Rumsfeld's Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "Text: Rumsfeld's Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "The New York Times Co",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "RUMSFELD, DONALD",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "United States Politics and Government",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Terrorism",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Running",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Treaties",
+            "rank": 7,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/1093d574-61f9-5805-9125-9662634d5255",
+        "word_count": 1059,
+        "uri": "nyt://article/1093d574-61f9-5805-9125-9662634d5255"
+      },
+      {
+        "abstract": "ASIA",
+        "web_url": "https://www.nytimes.com/2001/06/28/business/world-business-briefing.html",
+        "snippet": "ASIA",
+        "lead_paragraph": " ASIA ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Business Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Business Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "China",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Japan",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "France",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "EUROPEAN UNION",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Korean",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Europe",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Finland",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Netherlands",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "United States",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Amsterdam",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "AOL TIME WARNER INCORPORATED",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "THE GOLDMAN SACHS GROUP INCORPORATED",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "REUTERS",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "World Trade Organization",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Hyundai Heavy Industries",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Samsung Heavy Industries",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Alcatel SA",
+            "rank": 18,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "LUCENT TECHNOLOGIES INCORPORATED",
+            "rank": 19,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "MOTOROLA INCORPORATED",
+            "rank": 20,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Nokia Corporation",
+            "rank": 21,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "ROYAL PHILIPS ELECTRONICS",
+            "rank": 22,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "LM Ericsson Telephone Company",
+            "rank": 23,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNET",
+            "rank": 24,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "BRITISH TELECOMMUNICATIONS PLC",
+            "rank": 25,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Bass Plc",
+            "rank": 26,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Express",
+            "rank": 27,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Tanikawa, Miki",
+            "rank": 28,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Tagliabue, John",
+            "rank": 29,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Computers and the Internet",
+            "rank": 30,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Trademarks and Trade Names",
+            "rank": 31,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Finances",
+            "rank": 32,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES",
+            "rank": 33,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-06-28T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/878562ef-f054-5093-acc0-128d342022bc",
+        "word_count": 761,
+        "uri": "nyt://article/878562ef-f054-5093-acc0-128d342022bc"
+      },
+      {
+        "abstract": "EUROPE",
+        "web_url": "https://www.nytimes.com/2001/06/23/business/world-business-briefing.html",
+        "snippet": "EUROPE",
+        "lead_paragraph": " EUROPE ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Business Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Business Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Europe",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Germany",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Britain",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Austria",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "EUROPEAN UNION",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "South Korea",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Korean",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Japan",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Singapore",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Southeast (New York)",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Ifo Institute",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Ifo",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "GE CAPITAL",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "General Electric Company",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Railtrack",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Kingfisher Plc",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Gallaher Group Plc",
+            "rank": 18,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Spinner",
+            "rank": 19,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "The Boeing Company",
+            "rank": 20,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Times of London",
+            "rank": 21,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Hyundai Heavy Industries",
+            "rank": 22,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Korean Stock Exchange",
+            "rank": 23,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Union Bank",
+            "rank": 24,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Capital Holdings",
+            "rank": 25,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Cowell, Alan",
+            "rank": 26,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Yung, Chung Ju",
+            "rank": 27,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Chemicals",
+            "rank": 28,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Executives and Management",
+            "rank": 29,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Environment",
+            "rank": 30,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Stocks and Bonds",
+            "rank": 31,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-06-23T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/b6d5a307-64fa-5f24-941b-09c70957f8a0",
+        "word_count": 849,
+        "uri": "nyt://article/b6d5a307-64fa-5f24-941b-09c70957f8a0"
+      },
+      {
+        "abstract": "ASIA",
+        "web_url": "https://www.nytimes.com/2001/05/26/business/world-business-briefing.html",
+        "snippet": "ASIA",
+        "lead_paragraph": " ASIA ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Business Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Business Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG (CHINA)",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "United States",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Europe",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Japan",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "South Korea",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Deposit",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Singapore",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Osaka (Japan)",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Canada",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Britain",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Germany",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Italy",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "New Zealand",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Montana (USA)",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Ford Motor Company",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "HSBC Holdings PLC",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Pacific Century CyberWorks",
+            "rank": 18,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Telstra Corporation Limited",
+            "rank": 19,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "MobileOne Asia",
+            "rank": 20,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "REUTERS",
+            "rank": 21,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Commerzbank",
+            "rank": 22,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Assicurazioni Generali",
+            "rank": 23,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "General Motors Corporation",
+            "rank": 24,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Volkswagen AG",
+            "rank": 25,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Allied Domecq OLS",
+            "rank": 26,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Tanikawa, Miki",
+            "rank": 27,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Li, Richard",
+            "rank": 28,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Cowell, Alan",
+            "rank": 29,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Wines",
+            "rank": 30,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Alcoholic Beverages",
+            "rank": 31,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Banks and Banking",
+            "rank": 32,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Stocks and Bonds",
+            "rank": 33,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-05-26T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/84fcadc0-4d34-57ca-9e52-f3afe3e48737",
+        "word_count": 839,
+        "uri": "nyt://article/84fcadc0-4d34-57ca-9e52-f3afe3e48737"
+      },
+      {
+        "abstract": "AMERICAS",
+        "web_url": "https://www.nytimes.com/2001/05/25/world/world-briefing.html",
+        "snippet": "AMERICAS",
+        "lead_paragraph": " AMERICAS ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Peru",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Lima",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Brazil",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "South Korea",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Korean",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Seoul (South Korea)",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "North Korea",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "WASHINGTON",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Philippines",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Europe",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Russia",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Ireland",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Africa",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Sudan",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Kenya",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Uganda",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Algeria",
+            "rank": 18,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Algiers (Algeria)",
+            "rank": 19,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Mozambique",
+            "rank": 20,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "CONGRESS",
+            "rank": 21,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Senate",
+            "rank": 22,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Review",
+            "rank": 23,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "REUTERS",
+            "rank": 24,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "MONEY",
+            "rank": 25,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Roman Catholic Church",
+            "rank": 26,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Commercial Bank",
+            "rank": 27,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Montesinos, Vladimiro",
+            "rank": 28,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Bush, George W.",
+            "rank": 29,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Wines, Michael",
+            "rank": 30,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Frauds and Swindling",
+            "rank": 31,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Politics and Government",
+            "rank": 32,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Demonstrations and Riots",
+            "rank": 33,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Debating",
+            "rank": 34,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-05-25T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/0b0ce924-609c-5ce0-a992-2564fa3a6069",
+        "word_count": 875,
+        "uri": "nyt://article/0b0ce924-609c-5ce0-a992-2564fa3a6069"
+      },
+      {
+        "abstract": "ASIA<BR JAPAN: TELECOM PROFIT",
+        "web_url": "https://www.nytimes.com/2001/05/18/business/world-business-briefing.html",
+        "snippet": "ASIA<BR JAPAN: TELECOM PROFIT",
+        "lead_paragraph": " ASIA<BR JAPAN: TELECOM PROFIT ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Business Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Business Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Japan",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "South Korea",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Seoul (South Korea)",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "New York (USA)",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "America",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Europe",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Switzerland",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Britain",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Canada",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "United States",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "NIPPON TELEGRAPH AND TELEPHONE Corporation",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "REUTERS",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "General Motors Corporation",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Delphi Automotive Systems Corporation",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "MITSUBISHI MOTORS",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Marconi Plc",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "BRITISH TELECOMMUNICATIONS PLC",
+            "rank": 18,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNET",
+            "rank": 19,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "TELEWEST COMMUNICATIONS PLC",
+            "rank": 20,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Sony Corporation",
+            "rank": 21,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "NTL Incorporated",
+            "rank": 22,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "AOL TIME WARNER INCORPORATED",
+            "rank": 23,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Swisscom AG",
+            "rank": 24,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Vodafone Group Plc",
+            "rank": 25,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "International Trade Commission",
+            "rank": 26,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Tagliabue, John",
+            "rank": 27,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Olson, Elizabeth",
+            "rank": 28,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Automobiles",
+            "rank": 29,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Telephones and Telecommunications",
+            "rank": 30,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Oil (Petroleum) and Gasoline",
+            "rank": 31,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Customs (Tariff)",
+            "rank": 32,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-05-18T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/21dd7d62-957b-5eda-b230-28048fccf902",
+        "word_count": 664,
+        "uri": "nyt://article/21dd7d62-957b-5eda-b230-28048fccf902"
+      },
+      {
+        "abstract": "How do careers happen? Is it parental nagging, the sensitive and percipient guidance counselor in 10th grade, a class with Harold Bloom or, more typically, some fluke? For Quang Wayne Van, the seminal event was weekly exposure to \"Style With Elsa Klensch.\" When Mr. Van was a boy in Alhambra, Calif., he spent Saturday mornings in typical boy fashion, watching cartoons. That is, he did when his sisters would let him. Most weekends, however, they would barge in and switch the channel to Ms. Klensch's long-running fashion show on CNN.",
+        "web_url": "https://www.nytimes.com/2001/05/15/living/front-row-fashion-show-is-wrought-by-young-designers.html",
+        "snippet": "How do careers happen? Is it parental nagging, the sensitive and percipient guidance counselor in 10th grade, a class with Harold Bloom or, more typically, some fluke? For Quang Wayne Van, the seminal event was weekly exposure to \"Style With Elsa ...",
+        "lead_paragraph": " How do careers happen? Is it parental nagging, the sensitive and percipient guidance counselor in 10th grade, a class with Harold Bloom or, more typically, some fluke? For Quang Wayne Van, the seminal event was weekly exposure to \"Style With Elsa Klensch.\" When Mr. Van was a boy in Alhambra, Calif., he spent Saturday mornings in typical boy fashion, watching cartoons. That is, he did when his sisters would let him. Most weekends, however, they would barge in and switch the channel to Ms. Klensch's long-running fashion show on CNN. ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Front Row: Fashion Show Is Wrought by Young Designers",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "Front Row: Fashion Show Is Wrought by Young Designers",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Alhambra",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Fifth Avenue (New York)",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "England",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Belgium",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Nepal",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Cannes (France)",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Paris",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Charlotte (North Carolina)",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "CNN",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Pastis",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "BALENCIAGA",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Bloom, Harold",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Rowley, Cynthia",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Surgery and Surgeons",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Vans",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Festivals",
+            "rank": 18,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-05-15T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Style",
+        "byline": {
+          "original": "By Guy Trebay",
+          "person": [
+            {
+              "firstname": "Guy",
+              "middlename": null,
+              "lastname": "Trebay",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/d5ff053a-5f26-5041-9d9e-76bb9455caf5",
+        "word_count": 685,
+        "uri": "nyt://article/d5ff053a-5f26-5041-9d9e-76bb9455caf5"
+      },
+      {
+        "abstract": "ASIA<BR JAPAN: TRADE SURPLUS FALLS",
+        "web_url": "https://www.nytimes.com/2001/05/15/business/world-business-briefing.html",
+        "snippet": "ASIA<BR JAPAN: TRADE SURPLUS FALLS",
+        "lead_paragraph": " ASIA<BR JAPAN: TRADE SURPLUS FALLS ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "World Business Briefing",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "World Business Briefing",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Japan",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "South Korea",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "United States",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "China",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "New York (USA)",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Orange",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "France",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Britain",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Europe",
+            "rank": 10,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Castries",
+            "rank": 11,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "San Francisco (California)",
+            "rank": 12,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Italy",
+            "rank": 13,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Korea Exchange Bank",
+            "rank": 14,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "SALOMON SMITH BARNEY",
+            "rank": 15,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Hyundai Group",
+            "rank": 16,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "General Motors Corporation",
+            "rank": 17,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "NTL Incorporated",
+            "rank": 18,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Credit Suisse Group",
+            "rank": 19,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "CABLE & WIRELESS PLC",
+            "rank": 20,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Digital Island Incorporated",
+            "rank": 21,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "REUTERS",
+            "rank": 22,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Yung, Chung Ju",
+            "rank": 23,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Cowell, Alan",
+            "rank": 24,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Tagliabue, John",
+            "rank": 25,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Computers and the Internet",
+            "rank": 26,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Telephones and Telecommunications",
+            "rank": 27,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Banks and Banking",
+            "rank": 28,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Finances",
+            "rank": 29,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-05-15T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/ec250060-e7ae-5e8e-89d2-7e6fd765d262",
+        "word_count": 723,
+        "uri": "nyt://article/ec250060-e7ae-5e8e-89d2-7e6fd765d262"
+      },
+      {
+        "abstract": "To the Editor:",
+        "web_url": "https://www.nytimes.com/2001/05/01/opinion/100-days-a-time-for-soundings.html",
+        "snippet": "To the Editor:",
+        "lead_paragraph": " To the Editor: ",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "100 Days: A Time for Soundings",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "100 Days: A Time for Soundings",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Morrisville",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "KOREA",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "SAN FRANCISCO",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "New Haven",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "party",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Roosevelt, Theodore",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Editorials",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Politics and Government",
+            "rank": 8,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "United States Politics and Government",
+            "rank": 9,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Presidents and Presidency (US)",
+            "rank": 10,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2001-05-01T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Opinion",
+        "byline": {
+          "original": "By",
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/1976b86a-b878-5157-8115-37a0c7fd8e8f",
+        "word_count": 476,
+        "uri": "nyt://article/1976b86a-b878-5157-8115-37a0c7fd8e8f"
+      }
+    ],
+    "meta": {
+      "hits": 4806,
+      "offset": 0,
+      "time": 22
+    }
+  }
+}

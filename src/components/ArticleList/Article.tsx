@@ -2,19 +2,26 @@ import styled from '@emotion/styled';
 
 import { Icon } from '../Icon';
 
-export default function News() {
+import { Article } from '@/services/type';
+
+interface ArticleProps {
+  article: Article;
+}
+
+export default function Article({ article }: ArticleProps) {
+  const { headline, source, original, publishedAt } = article;
   return (
     <Container>
       <Headline>
-        <Title>국방부 “北, 화성-17 실패 만회하려 영상 짜깁기… 성공 조작”</Title>
+        <Title>{headline}</Title>
         <Icon name="STAR" color="#6D6D6D" size={16} />
       </Headline>
       <Source>
         <NewsPaper>
-          <span>중앙일보</span>
-          <span>김정확 기자</span>
+          <span>{source}</span>
+          {original && <span>{original} 기자</span>}
         </NewsPaper>
-        <PublishedAt>2021.10.15(목)</PublishedAt>
+        <PublishedAt>{publishedAt}</PublishedAt>
       </Source>
     </Container>
   );

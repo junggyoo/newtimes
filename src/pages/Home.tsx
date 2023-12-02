@@ -1,11 +1,11 @@
-import FilterChips from '@/components/FIlterChips/FIlterChips';
-import NewsList from '@/components/NewsList/NewList';
+import ArticleList from '@/components/ArticleList/ArticleList';
+import { FilterChips } from '@/components/FilterChips';
 
 export default function HomePage() {
   return (
     <>
       <FilterChips />
-      <NewsList />
+      <ArticleList />
     </>
   );
 }

@@ -1,26 +1,27 @@
 import styled from '@emotion/styled';
 
-import News from './News';
+import Article from './Article';
+
+import { useArticleQuery } from '@/hooks/useArticleQuery';
 
 const VIEW_HEIGHT = window.innerHeight;
 const HEADER_HEIGHT = 87;
 const BOTTOM_HEIGHT = 85;
 
-export default function NewsList() {
+export default function ArticleList() {
+  const { data, isLoading } = useArticleQuery();
+
+  if (isLoading) {
+    return <h1>로딩중...</h1>;
+  }
+
+  console.log(data);
+
   return (
     <Container height={VIEW_HEIGHT}>
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
-      <News />
+      {data?.map((article) => {
+        return <Article key={article.id} article={article} />;
+      })}
     </Container>
   );
 }
