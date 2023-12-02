@@ -1,15 +1,10 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-
-import HomePage from './pages/Home';
-import ScrapPage from './pages/Scrap';
+import AppRoutes from './Routes';
+import Layout from './components/Layout';
 
 export default function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="scraps" element={<ScrapPage />} />
-      </Routes>
-    </BrowserRouter>
+    <Layout>
+      <AppRoutes />
+    </Layout>
   );
 }
