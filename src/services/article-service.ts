@@ -1,7 +1,7 @@
 import { api } from '@/services/axios';
 
 import { formattedDate } from '@/utils/date';
-import { ArticleRequest } from './type';
+import { ArticleDto, ArticleRequest } from './type';
 
 // import data from '@/mocks/data.json';
 
@@ -27,7 +27,7 @@ export default class ArticleService {
       },
     });
 
-    const articles = data.response.docs.map((article) => {
+    const articles = data.response.docs.map((article: ArticleDto) => {
       return {
         id: article._id,
         headline: article.headline.main,

@@ -4,6 +4,7 @@ import Article from './article';
 
 import { useArticleQuery } from '@/hooks/useArticleQuery';
 import { useGlobalStore } from '@/store/global';
+import { Article as ArticleType } from '@/services/type';
 
 const VIEW_HEIGHT = window.innerHeight;
 const HEADER_HEIGHT = 87;
@@ -24,7 +25,7 @@ export default function ArticleList() {
 
   return (
     <Container height={VIEW_HEIGHT}>
-      {data?.map((article) => {
+      {data?.map((article: ArticleType) => {
         return <Article key={article.id} article={article} />;
       })}
     </Container>
