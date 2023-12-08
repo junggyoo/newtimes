@@ -17,25 +17,43 @@ export default function DateInput({
   };
 
   return (
-    <Input
-      type="date"
-      data-placeholder={placeholder}
-      value={value}
-      onChange={handleChange}
-      required
-    />
+    <InputWrapper>
+      <Input
+        type="date"
+        data-placeholder={placeholder}
+        value={value}
+        onChange={handleChange}
+        required
+      />
+    </InputWrapper>
   );
 }
 
-const Input = styled.input`
+const InputWrapper = styled.div`
+  position: relative;
   width: 100%;
   height: 4.4rem;
   padding: 1rem 2rem;
-  border: 1px solid #c4c4c4;
+  border: 0.1rem solid #c4c4c4;
   border-radius: 0.8rem;
 
+  &:focus-within {
+    border: 0.1rem solid #3478f6;
+  }
+`;
+
+const Input = styled.input`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4.4rem;
+  padding: 1rem 2rem;
+  border-radius: 0.8rem;
+  color: #6d6d6d;
+  border: none;
+
   &[type='date'] {
-    position: relative;
     background: url('/images/calendar-check.png') no-repeat right 2rem center;
   }
 

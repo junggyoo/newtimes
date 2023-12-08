@@ -117,13 +117,19 @@ const Input = styled.input`
   width: 100%;
   height: 4.4rem;
   padding: 1rem 2rem;
-  border: 1px solid #c4c4c4;
+  color: #6d6d6d;
+  border: 0.1rem solid #c4c4c4;
   border-radius: 0.8rem;
 
   &::placeholder {
     color: #c4c4c4;
     font-size: 1.4rem;
     font-weight: 400;
+  }
+
+  &:focus {
+    outline: none;
+    border: 0.1rem solid #3478f6;
   }
 `;
 
@@ -137,7 +143,6 @@ const Country = styled.div<{ isSelected?: boolean }>`
   display: inline-flex;
   align-items: center;
   justify-content: center;
-
   height: 3.4rem;
   padding: 0.6rem 1.2rem;
 
@@ -154,8 +159,7 @@ const Country = styled.div<{ isSelected?: boolean }>`
 
   font-size: 1.4rem;
   font-weight: 400;
-
-  border: 1px solid #f2f2f2;
+  border: 0.1rem solid #f2f2f2;
   border-radius: 3rem;
 `;
 
