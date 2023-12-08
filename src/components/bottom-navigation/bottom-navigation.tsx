@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 
-import BottomNavItem from './BottomNavItem';
+import BottomNavItem from './bottom-navItem';
 
 export default function BottomNavigation() {
   return (

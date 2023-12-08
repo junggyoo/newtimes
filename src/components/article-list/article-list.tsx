@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 
-import Article from './Article';
+import Article from './article';
 
 import { useArticleQuery } from '@/hooks/useArticleQuery';
 

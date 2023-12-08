@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
-import { Chip } from '../Chip';
-import { Icon } from '../Icon';
+import { Chip } from '../chip';
+import { Icon } from '../icon';
 
 import { useGlobalStore } from '@/store/global';
 

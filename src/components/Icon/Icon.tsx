@@ -1,6 +1,6 @@
 import { cloneElement } from 'react';
 
-import { IconMap, Icons } from './IconMap';
+import { IconMap, Icons } from './icon-map';
 
 interface IconProps {
   name: keyof Icons;

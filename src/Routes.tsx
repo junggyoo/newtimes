@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 
-import HomePage from './pages/Home';
-import ScrapPage from './pages/Scrap';
+import HomePage from './pages/home';
+import ScrapPage from './pages/scrap';
 
 export default function AppRoutes() {
   return (

@@ -1,4 +1,4 @@
-import { ArticleList } from '@/components/ArticleList';
+import { ArticleList } from '@/components/article-list';
 import { FilterChips } from '@/components/filter-chips';
 
 export default function HomePage() {

@@ -1,7 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 
-import ArticleService from '@/services/ArticleService';
-
+import ArticleService from '@/services/article-service';
 import { ArticleRequest } from '@/services/type';
 
 export const useArticleQuery = (filter: ArticleRequest = {}) => {
