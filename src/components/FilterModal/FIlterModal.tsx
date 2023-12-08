@@ -16,11 +16,17 @@ const COUNTRIES = [
 ];
 
 export default function FilterModal() {
-  const toggleModal = useGlobalStore((state) => state.toggleModal);
+  const { filter, toggleModal, setFilter } = useGlobalStore((state) => ({
+    filter: state.filter,
+    toggleModal: state.toggleModal,
+    setFilter: state.setFilter,
+  }));
 
-  const [selectedCountries, setSelectedCountries] = useState<string[]>([]);
-  const [selectedDate, setSelectedDate] = useState('');
-  const [selectedHeadline, setSelectedHeadline] = useState('');
+  const [selectedCountries, setSelectedCountries] = useState<string[]>(
+    filter.countries
+  );
+  const [selectedDate, setSelectedDate] = useState(filter.date);
+  const [selectedHeadline, setSelectedHeadline] = useState(filter.headline);
 
   const handleCountryClick = (country: string) => {
     if (selectedCountries.includes(country)) {
@@ -42,6 +48,15 @@ export default function FilterModal() {
 
   const handleModalClose = (e: React.SyntheticEvent) => {
     if (e.target !== e.currentTarget) return;
+    toggleModal();
+  };
+
+  const handleFilterApply = () => {
+    setFilter({
+      headline: selectedHeadline,
+      date: selectedDate,
+      countries: selectedCountries,
+    });
     toggleModal();
   };
 
@@ -80,7 +95,7 @@ export default function FilterModal() {
             })}
           </Countries>
         </Filter>
-        <Button>필터 적용하기</Button>
+        <Button onClick={handleFilterApply}>필터 적용하기</Button>
       </Container>
     </Wrapper>
   );

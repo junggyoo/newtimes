@@ -10,7 +10,20 @@ interface FilterChipsProps {
 }
 
 export default function FilterChips({ type = 'home' }: FilterChipsProps) {
-  const toggleModal = useGlobalStore((state) => state.toggleModal);
+  const { filter, toggleModal } = useGlobalStore((state) => ({
+    filter: state.filter,
+    toggleModal: state.toggleModal,
+  }));
+
+  const getCountires = () => {
+    if (filter.countries.length === 0) return '전체 국가';
+    if (filter.countries.length === 1) return filter.countries[0];
+    return `${filter.countries[0]} 외 ${filter.countries.length - 1}개 국가`;
+  };
+
+  const countries = getCountires();
+  const headline = filter.headline ? filter.headline : '전체 헤드라인';
+  const date = filter.date ? filter.date.replace(/-/g, '.') : '전체 날짜';
 
   console.log(type);
   return (
@@ -18,17 +31,23 @@ export default function FilterChips({ type = 'home' }: FilterChipsProps) {
       <Chip
         startContent={<Icon name="SEARCH" size={16} />}
         onClick={toggleModal}
+        color={headline === '전체 헤드라인' ? 'default' : 'primary'}
       >
-        전체 헤드라인
+        {headline}
       </Chip>
       <Chip
         startContent={<Icon name="CALENDAR" size={16} />}
-        color="primary"
+        color={date === '전체 날짜' ? 'default' : 'primary'}
         onClick={toggleModal}
       >
-        전체 날짜
+        {date}
       </Chip>
-      <Chip onClick={toggleModal}>전체 국가</Chip>
+      <Chip
+        color={countries === '전체 국가' ? 'default' : 'primary'}
+        onClick={toggleModal}
+      >
+        {countries}
+      </Chip>
     </Container>
   );
 }
