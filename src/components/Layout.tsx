@@ -3,12 +3,16 @@ import styled from '@emotion/styled';
 import { BottomNavigation } from './BottomNavigation';
 import FilterModal from './FilterModal/FIlterModal';
 
+import { useGlobalStore } from '@/store/global';
+
 export default function Layout({ children }: React.PropsWithChildren) {
+  const isModalOpen = useGlobalStore((state) => state.isModalOpen);
+
   return (
     <Container>
       {children}
       <BottomNavigation />
-      <FilterModal />
+      {isModalOpen && <FilterModal />}
     </Container>
   );
 }

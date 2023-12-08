@@ -8,6 +8,7 @@ interface ChipProps {
   startContent?: React.ReactNode;
   endContent?: React.ReactNode;
   children: React.ReactNode;
+  onClick?: () => void;
 }
 
 export default function Chip({
@@ -15,9 +16,10 @@ export default function Chip({
   startContent,
   endContent,
   children,
+  onClick,
 }: ChipProps) {
   return (
-    <Container color={color}>
+    <Container color={color} onClick={onClick}>
       {startContent && startContent}
       {children}
       {endContent && endContent}

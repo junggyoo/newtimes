@@ -2,6 +2,7 @@ import { css } from '@emotion/react';
 import styled from '@emotion/styled';
 import { useState } from 'react';
 import DateInput from '@/components/date-input';
+import { useGlobalStore } from '@/store/global';
 
 const COUNTRIES = [
   '대한민국',
@@ -15,6 +16,8 @@ const COUNTRIES = [
 ];
 
 export default function FilterModal() {
+  const toggleModal = useGlobalStore((state) => state.toggleModal);
+
   const [selectedCountries, setSelectedCountries] = useState<string[]>([]);
   const [selectedDate, setSelectedDate] = useState('');
   const [selectedHeadline, setSelectedHeadline] = useState('');
@@ -38,7 +41,7 @@ export default function FilterModal() {
   };
 
   return (
-    <Wrapper>
+    <Wrapper onClick={toggleModal}>
       <Container>
         <Filter>
           <Title>헤드라인</Title>
