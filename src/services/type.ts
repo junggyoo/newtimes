@@ -1,7 +1,7 @@
 export interface ArticleRequest {
   headline?: string;
   date?: string;
-  country?: string;
+  country?: string | string[];
   page?: number;
   sort?: string;
 }
