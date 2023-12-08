@@ -40,8 +40,13 @@ export default function FilterModal() {
     setSelectedHeadline(e.target.value);
   };
 
+  const handleModalClose = (e: React.SyntheticEvent) => {
+    if (e.target !== e.currentTarget) return;
+    toggleModal();
+  };
+
   return (
-    <Wrapper onClick={toggleModal}>
+    <Wrapper onClick={handleModalClose}>
       <Container>
         <Filter>
           <Title>헤드라인</Title>
