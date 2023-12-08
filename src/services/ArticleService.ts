@@ -1,4 +1,4 @@
-// import { api } from '@/services/axios';
+import { api } from '@/services/axios';
 
 import { formattedDate } from '@/utils/date';
 import { ArticleRequest } from './type';
@@ -6,21 +6,14 @@ import { ArticleRequest } from './type';
 import data from '@/mocks/data.json';
 
 export default class ArticleService {
-  static async fetchNews({
-    headline,
-    date,
-    country,
-    page,
-    sort,
-  }: ArticleRequest) {
-    console.log(headline, date, country, page, sort);
+  static async fetchNews({ headline, date, country, page }: ArticleRequest) {
     // const { data } = await api.get('', {
     //   params: {
-    //     q: headline || 'Korea',
+    //     q: `${country || ''} ${headline}`,
     //     begin_date: date,
-    //     fq: `glocations:(${country || 'Korea'})`,
+    //     end_date: date,
     //     page: page || 0,
-    //     sort: sort || 'newest',
+    //     sort: 'newest',
     //   },
     // });
 

@@ -9,7 +9,10 @@ const HEADER_HEIGHT = 87;
 const BOTTOM_HEIGHT = 85;
 
 export default function ArticleList() {
-  const { data, isLoading } = useArticleQuery();
+  const { data, isLoading } = useArticleQuery({
+    headline: 'openai',
+    date: '20231106',
+  });
 
   if (isLoading) {
     return <h1>로딩중...</h1>;
